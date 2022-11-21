@@ -72,7 +72,7 @@
               </v-col>
               <v-img
                   max-width="400"
-                  src="./assets/img_1_lab3d.png"
+                  src="./img/img_1_lab3d.png"
               />
             </v-row>
           </v-container>
@@ -103,7 +103,7 @@
 
               <v-img
                   max-width="400"
-                  src="./assets/img_2_sim.png"
+                  src="./img/img_2_sim.png"
               />
             </v-row>
           </v-container>
@@ -134,7 +134,7 @@
 
               <v-img
                   max-width="400"
-                  src="./assets/img_3_costs.png"
+                  src="./img/img_3_costs.png"
               />
             </v-row>
           </v-container>
@@ -213,7 +213,7 @@
 
               <v-img
                   max-width="400"
-                  src="./assets/img_4_bi.png"
+                  src="./img/img_4_bi.png"
               />
             </v-row>
           </v-container>
@@ -253,7 +253,7 @@
 
               <v-img
                   max-width="400"
-                  src="./assets/img_5_ist.png"
+                  src="./img/img_5_ist.png"
               />
             </v-row>
           </v-container>
@@ -292,7 +292,7 @@
               <v-col>
                 <v-img
                     max-width="200"
-                    src="./assets/img_BG.png"
+                    src="./img/img_BG.png"
                 />
               </v-col>
             </v-row>
@@ -322,7 +322,7 @@
               <v-col>
                 <v-img
                     max-width="200"
-                    src="./assets/img_RK.png"
+                    src="./img/img_RK.png"
                 />
               </v-col>
             </v-row>
@@ -352,7 +352,7 @@
               <v-col>
                 <v-img
                     max-width="200"
-                    src="./assets/img_EA.png"
+                    src="./img/img_EA.png"
                 />
               </v-col>
             </v-row>
